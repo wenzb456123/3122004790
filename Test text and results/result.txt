@@ -1,0 +1,31 @@
+Original File(原文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig.txt
+Plagiarized File(抄袭文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig_0.8_add.txt
+Similarity(相似度): ------------------0.86
+Date(检测日期): ------------------2024-09-14 09:01:33
+
+
+Original File(原文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig.txt
+Plagiarized File(抄袭文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig_0.8_del.txt
+Similarity(相似度): ------------------0.75
+Date(检测日期): ------------------2024-09-14 09:04:38
+
+
+Original File(原文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig.txt
+Plagiarized File(抄袭文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig_0.8_dis_1.txt
+Similarity(相似度): ------------------0.87
+Date(检测日期): ------------------2024-09-14 09:05:24
+
+
+Original File(原文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig.txt
+Plagiarized File(抄袭文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig_0.8_dis_10.txt
+Similarity(相似度): ------------------0.77
+Date(检测日期): ------------------2024-09-14 09:05:46
+
+
+Original File(原文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig.txt
+Plagiarized File(抄袭文件): ------------------C:\Users\matebook14\Desktop\测试文本\orig_0.8_dis_15.txt
+Similarity(相似度): ------------------0.64
+Date(检测日期): ------------------2024-09-14 09:06:00
+
+
+
